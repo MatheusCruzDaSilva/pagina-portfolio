@@ -4,4 +4,4 @@
 
 Portfolio em html e css. 
 
-Realizado para mostrar o meu portfolio e ao mesmo tempo praticar essas linguagens.
+Realizado para mostrar o meu portfolio e ao mesmo tempo para praticar essas linguagens.
